@@ -30,8 +30,6 @@ echo -e " Addition is ${x} \n Substraction is ${y} \n Multiplication is ${m} \n 
 
 
 
-a=a+b
-y=a-b
 
 #division
 
